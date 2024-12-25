@@ -2,7 +2,7 @@
 
 Welcome to the **Guess My Number** game! A simple and fun game where you try to guess a secret number between 1 and 20.
 
-![Game UI](./ScreenShot.png)
+![Game UI](./ScreenShot.PNG)
 
 ## 🚀 Features
 - Intuitive user interface.
